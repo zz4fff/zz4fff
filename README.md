@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- ### COMEÇA AQUI A CONFIGURAÇÃO -->
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá! Eu sou o Flávio Augusto de Freitas, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/zz4fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zz4fff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
